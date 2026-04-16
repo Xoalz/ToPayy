@@ -1,0 +1,16 @@
+{
+  "name": "topay-landing",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "install": "npm install"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
